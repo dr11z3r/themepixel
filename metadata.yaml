@@ -1,5 +1,5 @@
 homepage: "https://tp.drizer.dev"
 documentation: "https://tp.drizer.dev/docs"
 versions:
-  - sha: b48166d47163623c0510625907924c24dccf7796
-    changeNotes: Initial release.
+  - sha: 2166e74b5c40e83b6e0b4df7f2c52f6eb90e988a
+    changeNotes: atualizando descricao e nome

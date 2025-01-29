@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "BetSync ThemePixel Tracker",
+  "displayName": "ThemePixel Tracker",
   "categories": ["ADVERTISING", "PERSONALIZATION", "SALES", "SESSION_RECORDING"],
   "brand": {
     "id": "brand_dummy",
